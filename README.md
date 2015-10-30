@@ -1,2 +1,2 @@
 # YCBar
-A Hacker New bar for Mac
+A Hacker News bar for Mac users
